@@ -304,7 +304,7 @@ PRODUCT_PACKAGES += \
 # Power
 PRODUCT_PACKAGES += \
     android.hardware.power@1.3-service.sm6150-libperfmgr \
-    android.hardware.power.stats@1.0-service.xiaomi_sm6150 \
+    android.hardware.power.stats@1.0-service.pixel \
     powerhint.json
 
 PRODUCT_COPY_FILES += \
