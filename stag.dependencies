@@ -12,7 +12,7 @@
     "branch": "sx"
   },
   {
-    "remote": "stagos-devices",
+    "remote": "gitlab-stag",
     "repository": "vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi",
     "branch": "sx"
